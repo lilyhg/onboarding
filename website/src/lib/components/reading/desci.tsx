@@ -34,7 +34,7 @@ const DESCI_CONTENT = [
          <ListItem>Give everyone the opportunity to **raise funds** for their scientific or entrepreneurial project</ListItem>
          <ListItem>Enable everyone to **run laboratory services,** no matter where they are</ListItem>
          <ListItem> **Share data and materials** in a new ways that reward inventors and create access</ListItem>
-        </UnorderedList>
+       </UnorderedList>
         The tools we are building make it easier for scientists to provide services to each other while ensuring ownership and provenance of their data. 
           
       </>
